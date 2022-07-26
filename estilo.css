@@ -1,1 +1,12 @@
 
+bod{
+  backgroud: #CCCCCC;
+}
+  
+  p{
+    text-align: center;
+  }    
+    
+    strong{
+      color:#F0000;
+    }
